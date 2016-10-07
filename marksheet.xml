@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marksheet>
+	<course>
+		<courseid>1</courseid>
+		<title>TCS</title>
+		<th>50</th>
+		<orpr>20</orpr>
+		<tw>20</tw>
+		<total>90</total>
+	</course>
+
+	<course>
+		<courseid>2</courseid>
+		<title>OOPM</title>
+		<th>60</th>
+		<orpr>25</orpr>
+		<tw>20</tw>
+		<total>100</total>
+	</course>
+
+	<course>
+		<courseid>3</courseid>
+		<title>WTL</title>
+		<th>100</th>
+		<orpr>10</orpr>
+		<tw>20</tw>
+		<total>140</total>
+	</course>
+
+	<course>
+		<courseid>4</courseid>
+		<title>SPA</title>
+		<th>42</th>
+		<orpr>15</orpr>
+		<tw>25</tw>
+		<total>112</total>
+	</course>
+
+	<course>
+		<courseid>5</courseid>
+		<title>CG</title>
+		<th>60</th>
+		<orpr>10</orpr>
+		<tw>20</tw>
+		<total>140</total>
+	</course>
+
+	<course>
+		<courseid>6</courseid>
+		<title>DS</title>
+		<th>55</th>
+		<orpr>10</orpr>
+		<tw>20</tw>
+		<total>140</total>
+	</course>
+
+</marksheet>	
